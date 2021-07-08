@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/shop/static/css/main.58fd240b.chunk.css",
+    "main.js": "/shop/static/js/main.a4dfdb97.chunk.js",
+    "main.js.map": "/shop/static/js/main.a4dfdb97.chunk.js.map",
+    "runtime-main.js": "/shop/static/js/runtime-main.14d5638b.js",
+    "runtime-main.js.map": "/shop/static/js/runtime-main.14d5638b.js.map",
+    "static/js/2.da0b55fe.chunk.js": "/shop/static/js/2.da0b55fe.chunk.js",
+    "static/js/2.da0b55fe.chunk.js.map": "/shop/static/js/2.da0b55fe.chunk.js.map",
+    "static/js/3.88cad152.chunk.js": "/shop/static/js/3.88cad152.chunk.js",
+    "static/js/3.88cad152.chunk.js.map": "/shop/static/js/3.88cad152.chunk.js.map",
+    "index.html": "/shop/index.html",
+    "static/css/main.58fd240b.chunk.css.map": "/shop/static/css/main.58fd240b.chunk.css.map",
+    "static/js/2.da0b55fe.chunk.js.LICENSE.txt": "/shop/static/js/2.da0b55fe.chunk.js.LICENSE.txt",
+    "static/media/hero.style.scss": "/shop/static/media/ben-white-unsplash.4d742d9d.jpg",
+    "static/media/studio-bag.0f3196ed.png": "/shop/static/media/studio-bag.0f3196ed.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14d5638b.js",
+    "static/js/2.da0b55fe.chunk.js",
+    "static/css/main.58fd240b.chunk.css",
+    "static/js/main.a4dfdb97.chunk.js"
+  ]
+}
